@@ -1,0 +1,71 @@
+\selectlanguage *{english}
+\contentsline {section}{\numberline {1}Introduction}{1}%
+\contentsline {section}{\numberline {2}Related Work}{3}%
+\contentsline {section}{\numberline {3}Data Collection}{5}%
+\contentsline {section}{\numberline {4}The Proposed System}{6}%
+\contentsline {subsection}{\numberline {4.1}Indexing}{6}%
+\contentsline {subsection}{\numberline {4.2}Searching}{11}%
+\contentsline {subsection}{\numberline {4.3}Ranking}{12}%
+\contentsline {subsection}{\numberline {4.4}User Interface}{15}%
+\contentsline {section}{\numberline {5}Results}{18}%
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\bgroup 
+\selectlanguage *{sanskrit}
+\egroup 
+\selectlanguage *{english}
+\contentsline {section}{\numberline {6}Conclusion}{20}%
